@@ -1,0 +1,6 @@
+{
+  "name": "HCC Post-Hepatectomy Overall Survival Calculator",
+  "description": "Simplified scoring calculator for overall survival risk stratification after hepatic resection for hepatocellular carcinoma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
